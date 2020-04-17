@@ -2,7 +2,6 @@
 layout: page
 title: CV
 subtitle: My Online CV
-published: false
 
 ---
 test
