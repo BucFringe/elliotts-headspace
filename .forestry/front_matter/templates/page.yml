@@ -20,5 +20,6 @@ fields:
   config:
     required: true
 pages:
+- cv.md
 - elements.md
 - generic.md
