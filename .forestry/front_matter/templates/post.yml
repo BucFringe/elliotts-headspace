@@ -38,3 +38,4 @@ fields:
     required: true
 pages:
 - _posts/2016-08-22-tellus.md
+- _posts/my-first-post.md
