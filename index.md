@@ -7,7 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   subtitle: "### Most of it is junk anyway"
-  image: images/avatar.png
+  image: "/images/23316830_10155939405578993_5003620545750949275_n.jpg"
 - type: contentblock
   template: contentblock
   title: Welcome
