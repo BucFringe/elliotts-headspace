@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5e99c860c890ab001bc88679/webhook/forestry
 sections:
+- type: jekyll-posts
+  label: Post
+  create: all
+  templates:
+  - post
 - type: document
   path: _config.yml
   label: Global Site Config
@@ -42,11 +47,6 @@ sections:
   exclude: "{_posts/**,README.md,LICENSE.md,index.md}"
   templates:
   - page
-- type: jekyll-posts
-  label: Post
-  create: all
-  templates:
-  - post
 - type: document
   path: _data/menus.yml
   label: Site Menus
