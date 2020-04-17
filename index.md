@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: This is a hero headline.
+  title: Some of the things that are going on inside Elliotts Head
   section_id: hero
   component: hero_block.html
-  subtitle: "### This is a super-cool hero subhead."
+  subtitle: "### Most of it is junk anyway"
   image: images/avatar.png
 - type: contentblock
   template: contentblock
