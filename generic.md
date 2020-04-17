@@ -4,7 +4,6 @@ subtitle: A Small page explaining me
 layout: page
 menu:
   main:
-    title: Generic
     weight: 2
 
 ---
